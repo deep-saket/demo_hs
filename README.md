@@ -20,11 +20,8 @@ This codebase is developed and maintained by Saket Mohanty, This code base uses 
     python capture.py
     ```
 
-### Dataset
-<a href="https://10xar.sharepoint.com/:f:/s/10xARWiki/Et6PxtDxNwhPosQ53gODXi0B_PhJkqsuonwTIdcfAdS7ww?e=dl7Hcw"> train_asl_a </a>: Conations 
-
 ### Trained Model
-The trained model for this model can be found <a href="https://10xar.sharepoint.com/:f:/s/10xARWiki/EkzkJH9Fd11LkZfjuCQtGrABxaPiJg3VJZa9jv32t0nlrw?e=GW8dEC"> here. </a>
+The trained model for this model can be found <a href=""> here. </a>
 
 ### IOU
 IOU on single image for the model provided is 71%.
