@@ -13,10 +13,6 @@ This codebase is developed and maintained by Saket Mohanty, This code base uses 
     ```
     python infer_ckpt.py --image_dir <PATH_TO_THE_DIR_CONTAINING_VIDEO>  --output_dir <PATH_TO_THE_DIR_WHERE_OUTPUT_VIDEO_WILL_BE_STORED> --restore_from <PATH_TO_CKPT>
     ```
-    Adjust the hsv values from the track bar to segment your hand color.
-
-    ```
-
 ### Trained Model
 The trained model for this model can be found <a href=""> here. </a>
 
